@@ -9169,6 +9169,16 @@
         "tslib": "2.6.2",
       },
     },
+    "packages/pieces/community/taodock": {
+      "name": "activepieces-piece-taodock",
+      "version": "0.0.1",
+      "dependencies": {
+        "@activepieces/pieces-common": "workspace:*",
+        "@activepieces/pieces-framework": "workspace:*",
+        "@activepieces/shared": "workspace:*",
+        "tslib": "2.6.2",
+      },
+    },
     "packages/pieces/community/tapfiliate": {
       "name": "@activepieces/piece-tapfiliate",
       "version": "0.2.1",
@@ -14786,6 +14796,8 @@
     "@tanstack/table-core": ["@tanstack/table-core@8.19.2", "", {}, "sha512-KpRjhgehIhbfH78ARm/GJDXGnpdw4bCg3qas6yjWSi7czJhI/J6pWln7NHtmBkGE9ZbohiiNtLqwGzKmBfixig=="],
 
     "@tanstack/virtual-core": ["@tanstack/virtual-core@3.13.11", "", {}, "sha512-ORL6UyuZJ0D9X33LDR4TcgcM+K2YiS2j4xbvH1vnhhObwR1Z4dKwPTL/c0kj2Yeb4Yp2lBv1wpyVaqlohk8zpg=="],
+
+    "activepieces-piece-taodock": ["activepieces-piece-taodock@workspace:packages/pieces/community/taodock"],
 
     "@techteamer/ocsp": ["@techteamer/ocsp@1.0.1", "", { "dependencies": { "asn1.js": "^5.4.1", "asn1.js-rfc2560": "^5.0.1", "asn1.js-rfc5280": "^3.0.0", "async": "^3.2.4", "simple-lru-cache": "^0.0.2" } }, "sha512-q4pW5wAC6Pc3JI8UePwE37CkLQ5gDGZMgjSX4MEEm4D4Di59auDQ8UNIDzC4gRnPNmmcwjpPxozq8p5pjiOmOw=="],
 
