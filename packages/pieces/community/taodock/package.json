@@ -1,5 +1,5 @@
 {
-  "name": "activepieces-piece-taodock",
+  "name": "@taodock-ai/piece-taodock",
   "version": "0.0.1",
   "description": "Use Taodock image and video AI models in Activepieces automations.",
   "license": "MIT",

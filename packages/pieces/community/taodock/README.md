@@ -18,7 +18,7 @@ Image and video generation consume Taodock quota. Model availability and support
 In Activepieces, open **Settings → My Pieces → Install Piece**, choose the npm option, and enter:
 
 ```text
-activepieces-piece-taodock
+@taodock-ai/piece-taodock
 ```
 
 Create a Taodock API key at <https://taodock.com/keys>, then add it as a connection in Activepieces.

@@ -2206,7 +2206,7 @@
       "@activepieces/piece-connectuc": [
         "packages/pieces/community/connectuc/src/index.ts"
       ],
-      "activepieces-piece-taodock": [
+      "@taodock-ai/piece-taodock": [
         "packages/pieces/community/taodock/src/index.ts"
       ]
     },
